@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "817276777665",
+    "firebase_url": "https://testdieukhienled123-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testdieukhienled123",
+    "storage_bucket": "testdieukhienled123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817276777665:android:be8dedfaa7468940f21040",
+        "android_client_info": {
+          "package_name": "com.example.doanmonhoc_tinh_nam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdZ6Fx01D5kHJG_UnfWZ-M0jjyBdXtRX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
